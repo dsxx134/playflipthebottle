@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "/实战/playflipthebottle/"
+    }
+  ]
+}
