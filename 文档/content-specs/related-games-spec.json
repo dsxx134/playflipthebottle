@@ -1,0 +1,41 @@
+{
+  "title": "Similar Games You Might Enjoy",
+  "games": [
+    {
+      "name": "Bottle Jump 3D",
+      "description": "Master the art of bottle flipping in this addictive 3D challenge. Navigate through obstacles and land perfect flips on moving platforms.",
+      "imageUrl": "https://imgs.crazygames.com/auto-covers/flip-bottle_1x1.png?format=auto&quality=100&metadata=none&width=300",
+      "gameUrl": "https://www.crazygames.com/game/flip-bottle"
+    },
+    {
+      "name": "Stack Tower",
+      "description": "Test your precision and balance skills by stacking blocks as high as possible. One wrong move and your tower comes tumbling down!",
+      "imageUrl": "https://play-lh.googleusercontent.com/8ddL1kuoNUB5vUvgDVjYY5RVAHP9ApJzQlnEwBDhGHk-JoAoSTjSJiZXNtJK8z_DhzBh",
+      "gameUrl": "https://play.google.com/store/apps/details?id=com.KhoGames.StackToys"
+    },
+    {
+      "name": "Perfect Balance",
+      "description": "Rotate and stack shapes to achieve perfect balance in this physics puzzle masterpiece. Can you solve all the challenging levels?",
+      "imageUrl": "https://armorgames.com/files/thumbnails/perfect-balance-2-5029.png",
+      "gameUrl": "https://armorgames.com/play/5029/perfect-balance-2"
+    },
+    {
+      "name": "Jump King",
+      "description": "Climb to the top in this challenging precision platformer. Every jump matters - one mistake sends you tumbling back down!",
+      "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1061090/header.jpg",
+      "gameUrl": "https://store.steampowered.com/app/1061090/Jump_King/"
+    },
+    {
+      "name": "Getting Over It",
+      "description": "Navigate treacherous terrain with just a hammer and determination. A philosophical journey about perseverance and overcoming obstacles.",
+      "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/240720/header.jpg",
+      "gameUrl": "https://store.steampowered.com/app/240720/Getting_Over_It_with_Bennett_Foddy/"
+    },
+    {
+      "name": "Physics Drop",
+      "description": "Use physics and gravity to guide objects to their targets. Simple concept, challenging execution - perfect for puzzle lovers!",
+      "imageUrl": "https://play-lh.googleusercontent.com/QwWWrZlRdaxaGTzSzVVZqJmJNlWqRzGkCAqVgZwKkOJoQkQlQjGQQQQQQQQQQQQQQQ",
+      "gameUrl": "https://www.crazygames.com/game/physics-drop"
+    }
+  ]
+}
